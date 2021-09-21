@@ -1,0 +1,8 @@
+<% @reserves.each do |reserve| %>
+      <tr> 
+        <td><%= reserve.book_id %> </td>
+        <td><%= reserve.book.title %> </td>
+        <td><%= reserve.book.author %> </td>
+        <td> </td>
+      </tr> 
+    <% end %>
