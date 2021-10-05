@@ -1,1 +1,0 @@
-Link to heroku: https://bookstoreac.herokuapp.com/
